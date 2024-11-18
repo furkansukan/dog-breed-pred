@@ -1,6 +1,6 @@
 streamlit
 keras
-opencv-python
+opencv-python-headless
 numpy
 setuptools
 python_version
