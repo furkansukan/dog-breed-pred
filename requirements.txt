@@ -1,7 +1,8 @@
+streamlit>=0.71.0
 keras>=2.4.3
 opencv-python==4.4.0.46
 numpy==1.24.3
-streamlit>=0.71.0
+
 setuptools>=58.0.0
 python_version==3.11
 wheel
