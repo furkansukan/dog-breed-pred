@@ -3,3 +3,4 @@ opencv_python==4.4.0.46
 numpy==1.20
 streamlit==0.71.0
 pip==24.3.1
+setuptools
