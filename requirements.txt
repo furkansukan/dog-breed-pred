@@ -5,3 +5,4 @@ numpy
 setuptools
 python_version
 wheel
+tensorflow
